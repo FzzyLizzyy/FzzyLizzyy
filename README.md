@@ -9,11 +9,11 @@ Software developer & designer
 * 🚀  I'm currently working on [Plop CDN](http://plop.deadlykitten.nl/)
 * 🧠  I'm learning Angular & Java
 
-<a href="https://www.github.com/LizzyPear" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/LizzyPear?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
+<a href="https://www.github.com/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/FzzyLizzy?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
 <br>
-<a href="https://www.twitch.tv/lizzypear" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/lizzypear?logo=twitchsx&style=for-the-badge&color=ec4899&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<a href="https://www.twitch.tv/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/FzzyLizzy?logo=twitchsx&style=for-the-badge&color=ec4899&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 <br>
-<a href="https://www.twitter.com/Lizzyppear" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Lizzyppear?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
+<a href="https://www.twitter.com/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/FzzyLizzy?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
 
 
 ### Skills
