@@ -13,8 +13,8 @@ Software developer & designer
 <br>
 <a href="https://www.twitch.tv/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/FzzyLizzy?logo=twitchsx&style=for-the-badge&color=ec4899&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 <br>
-<a href="https://www.twitter.com/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/FzzyLizzy?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
-
+<a href="https://www.twitter.com/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/FzzyLizzy?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a><br>
+<a href="https://wakatime.com/@504b33df-0b09-4f95-9cf6-ca9ecc883c7f"><img src="https://wakatime.com/badge/user/504b33df-0b09-4f95-9cf6-ca9ecc883c7f.svg"/></a>
 
 ### Skills
 
