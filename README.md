@@ -48,6 +48,4 @@ Software developer & designer
 
 <a href="http://www.github.com/FzzyLizzy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FzzyLizzy&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/FzzyLizzy"><img src="https://activity-graph.herokuapp.com/graph?username=FzzyLizzy&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/FzzyLizzy" align="left"><img src="https://wakatime.com/share/@FzzyLizzy/c5a9a4b0-fa9d-4764-b7fe-a3fad00fc212.svg" alt="Top Languages" /></a>
