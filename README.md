@@ -49,3 +49,4 @@ Software developer & designer
 <a href="http://www.github.com/FzzyLizzy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FzzyLizzy&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/FzzyLizzy" align="left"><img src="https://wakatime.com/share/@FzzyLizzy/c5a9a4b0-fa9d-4764-b7fe-a3fad00fc212.svg" alt="Top Languages" /></a>
+<a href="https://github.com/FzzyLizzy" align="left"><img src="https://wakatime.com/share/@FzzyLizzy/f6a754d2-e483-49da-9ae2-8801015b55aa.svg" alt="Coding Activity over Last 7 Days" /></a>
