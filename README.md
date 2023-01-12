@@ -44,7 +44,7 @@ Software developer & designer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/FzzyLizzy"><img src="https://github-readme-stats.vercel.app/api?username=FzzyLizzy&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="FzzyLizzy's GitHub stats" /></a>
+<a href="http://www.github.com/FzzyLizzy"><img src="https://lizzy.nu/resources/images/github_stats.svg" alt="FzzyLizzy's GitHub stats" /></a>
 
 <a href="http://www.github.com/FzzyLizzy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FzzyLizzy&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
