@@ -41,7 +41,7 @@ Software developer & designer
 <p align="left">
 <a href="https://discord.com/users/375273261250117652" target="_blank"  rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=discord.com" width="32" height="32" /></a>
 <a href="https://www.instagram.com/fzzylizzyx/" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=instagram.com" width="32" height="32" /></a>
-<a href="https://twitter.com/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=twitter.com" width="32" height="32" /></a> 
+<a href="https://twitter.com/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=x.com" width="32" height="32" /></a> 
 <a href="https://www.twitch.tv/FzzyLizzyx" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=twitch.tv" width="32" height="32" /></a>
 <a href="https://huggingface.co/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=huggingface.co" width="32" height="32" /></a>
 </p>
