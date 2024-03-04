@@ -7,7 +7,7 @@ Software developer & designer
 * 🌍  I'm based in The netherlands
 * ✉️  You can contact me at [info@lizzy.nu](mailto:info@lizzy.nu)
 * 🚀  I'm currently working on [My CDN](http://app.deadlykitten.nl/)
-* 🧠  I'm learning Angular & Java
+* 🧠  I'm learning Angular, Kotlin and TailwindCSS
 
 <a href="https://www.github.com/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/FzzyLizzy?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
 <br>
