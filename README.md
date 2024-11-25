@@ -7,7 +7,7 @@ Software developer & designer
 * 🌍  I'm based in The netherlands
 * ✉️  You can contact me at [info@lizzy.nu](mailto:info@lizzy.nu)
 
-<a href="https://www.github.com/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/FzzyLizzy?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
+<a href="https://www.github.com/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/FzzyLizzyy?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
 <a href="https://wakatime.com/@504b33df-0b09-4f95-9cf6-ca9ecc883c7f"><img src="https://wakatime.com/badge/user/504b33df-0b09-4f95-9cf6-ca9ecc883c7f.svg"/></a>
 
 ### Skills
