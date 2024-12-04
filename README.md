@@ -37,6 +37,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### My GitHub Stats
 
-<a align="left" href="http://www.github.com/FzzyLizzy"><img src="https://lizzy.nu/storage/github_stats.svg" alt="FzzyLizzy's GitHub stats" /></a>
+<a align="left" href="http://www.github.com/FzzyLizzyy"><img src="https://lizzy.nu/storage/github_stats.svg" alt="FzzyLizzy's GitHub stats" /></a>
 <a align="left" href="https://github.com/FzzyLizzy" align="left"><img src="https://wakatime.com/share/@FzzyLizzy/c5a9a4b0-fa9d-4764-b7fe-a3fad00fc212.svg" alt="Top Languages" /></a>
 <a align="left" href="https://github.com/FzzyLizzy" align="left"><img src="https://wakatime.com/share/@FzzyLizzy/f6a754d2-e483-49da-9ae2-8801015b55aa.svg" alt="Coding Activity over Last 7 Days" /></a>
