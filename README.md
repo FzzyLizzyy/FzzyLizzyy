@@ -23,17 +23,17 @@
 
 ## Operating systems I am currently using
 
-<a href="https://github.com/FzzyLizzyy" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<div style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/macos.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/ios.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/ubuntu.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/android.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/windows.svg" height="32" />
-</a>
+</div>
 
 ## Languages, tools and frameworks I know
 
-<a href="https://github.com/FzzyLizzyy" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<div style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/php.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/python.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/kotlin.svg" height="32" />
@@ -55,15 +55,16 @@
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/laravel.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/angular.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/electron.svg" height="32" />
-</a>
+</div>
 
 ## Write my code using
-<a href="https://github.com/FzzyLizzyy" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<div style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
     <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/visualstudiocode.svg" height="32" />
     <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/visualstudio.svg" height="32" />
     <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/idea.svg" height="32" />
     <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/xcode.svg" height="32" />
-</a>
+
+</div>
 
 ## My GitHub Stats
 
