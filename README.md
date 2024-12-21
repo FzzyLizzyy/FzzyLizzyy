@@ -23,7 +23,7 @@
 
 ## Operating systems I am currently using
 
-<a href="" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<a href="https://github.com/FzzyLizzyy" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/macos.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/ios.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/ubuntu.svg" height="32" />
@@ -33,7 +33,7 @@
 
 ## Languages, tools and frameworks I know
 
-<a href="" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<a href="https://github.com/FzzyLizzyy" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/php.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/python.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/kotlin.svg" height="32" />
@@ -58,7 +58,7 @@
 </a>
 
 ## Write my code using
-<a href="" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<a href="https://github.com/FzzyLizzyy" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
     <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/visualstudiocode.svg" height="32" />
     <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/visualstudio.svg" height="32" />
     <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/idea.svg" height="32" />
