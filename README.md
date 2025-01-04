@@ -19,6 +19,7 @@
   <a href="https://www.instagram.com/fzzylizzyx/" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=instagram.com" width="32" height="32" /></a>
   <a href="https://x.com/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=x.com" width="32" height="32" /></a> 
   <a href="https://www.twitch.tv/FzzyLizzyx" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=twitch.tv" width="32" height="32" /></a>
+  <a href="https://steamcommunity.com/profiles/76561198162547563" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=steamcommunity.com" width="32" height="32" /></a>
 </div>
 
 ## Operating systems I am currently using
