@@ -53,7 +53,6 @@
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/vitejs.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/bootstrap.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/tailwindcss.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/symfony.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/laravel.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/angular.svg" height="32" />
   <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/electron.svg" height="32" />
