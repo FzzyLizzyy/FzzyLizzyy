@@ -1,7 +1,7 @@
-# <div style="display:flex;align-items: center;"><span>Hi</span><img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/wave.gif" width="64" height="64"/><span>My name is <b style="color:f08ea9">Lizzy</b></span></div>
+# <div style="display:flex;align-items: center;"><span>Hi</span><img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/wave.gif" width="64" height="64"/><span>My name is <b style="color:f08ea9">Lizzy</b></span></div>
 
 <div style="display:flex;align-items:center;gap: 10px;">
-    <a href="https://www.github.com/FzzyLizzy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/FzzyLizzyy?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
+    <a href="https://www.github.com/Cuteminded" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Cuteminded?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
     <a href="https://wakatime.com/@Cuteminded"><img src="https://wakatime.com/badge/user/4e235165-5c24-4401-9a09-6d6c1b0bcb70.svg"/></a>
 </div>
 
@@ -26,44 +26,44 @@
 ## Operating systems I am currently using
 
 <div style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/macos.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/ios.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/ubuntu.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/android.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/windows.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/macos.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/ios.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/ubuntu.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/android.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/windows.svg" height="32" />
 </div>
 
 ## Languages, tools and frameworks I know
 
 <div style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/php.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/python.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/kotlin.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/javascript.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/csharp.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/dotnet.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/html.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/css.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/sass.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/jquery.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/mysql.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/postgresql.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/docker.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/nodejs.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/vitejs.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/bootstrap.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/tailwindcss.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/laravel.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/angular.svg" height="32" />
-  <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/electron.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/php.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/python.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/kotlin.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/javascript.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/csharp.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/dotnet.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/html.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/css.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/sass.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/jquery.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/mysql.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/postgresql.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/docker.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/nodejs.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/vitejs.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/bootstrap.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/tailwindcss.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/laravel.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/angular.svg" height="32" />
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/electron.svg" height="32" />
 </div>
 
 ## Write my code using
 <div style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
-    <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/visualstudiocode.svg" height="32" />
-    <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/visualstudio.svg" height="32" />
-    <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/idea.svg" height="32" />
-    <img src="https://raw.githubusercontent.com/FzzyLizzyy/FzzyLizzyy/refs/heads/main/icons/badges/xcode.svg" height="32" />
+    <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/visualstudiocode.svg" height="32" />
+    <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/visualstudio.svg" height="32" />
+    <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/idea.svg" height="32" />
+    <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/xcode.svg" height="32" />
 
 </div>
 
