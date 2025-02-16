@@ -15,6 +15,7 @@
     <a href="https://lizzy.nu/profile/u/d4fda23cac3f4a4ba321df0e4246faee" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=lizzy.nu" width="32" height="32" /></a>
     <a href="https://hub.docker.com/u/cuteminded" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=hub.docker.com" width="32" height="32" /></a>
     <a href="https://huggingface.co/Cuteminded" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=huggingface.co" width="32" height="32" /></a>
+    <a href="https://modrinth.com/user/Cuteminded" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=modrinth.com" width="32" height="32" /></a>
     <a href="https://wakatime.com/@Cuteminded" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=wakatime.com" width="32" height="32" /></a>
     <a href="https://discord.com/users/375273261250117652" target="_blank"  rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=discord.com" width="32" height="32" /></a>
     <a href="https://www.instagram.com/Cuteminded_/" target="_blank" rel="noreferrer"><img src="https://www.google.com/s2/favicons?sz=64&domain=instagram.com" width="32" height="32" /></a>
